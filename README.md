@@ -1,5 +1,3 @@
-# Jan-to-Dec-Project
-***
 Netflix
 
 # **1. 프로젝트 개요**
