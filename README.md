@@ -2,7 +2,7 @@
 ***
 Netflix
 
-## **. 프로젝트 개요**
+# **1. 프로젝트 개요**
 
 목적: Netflix 콘텐츠 데이터 분석을 통한 인사이트 도출
 
@@ -10,7 +10,7 @@ Netflix
 
 사용한 기술 : Python, Pandas, Matplotlib, Seaborn, WordCloud
 
-## **데이터 전처리**
+# **2. 데이터 전처리**
 
 결측치 처리: 'country', 'cast', 'director' 열의 NaN 값을 'No Data'로 대체
 
@@ -18,7 +18,7 @@ Netflix
 
 연령 그룹 매핑: 'rating'을 기반으로 'age_group' 열 생성
 
-# 탐색적 데이터 분석
+# 3.탐색적 데이터 분석 EDA
 
 ## **3.1 콘텐츠 유형 분석**
 
